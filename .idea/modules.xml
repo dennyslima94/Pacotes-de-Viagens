@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Passagens.iml" filepath="$PROJECT_DIR$/.idea/modules/Passagens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Passagens.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Passagens.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Passagens.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Passagens.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Passagens.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Passagens.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Passagens.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Passagens.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
